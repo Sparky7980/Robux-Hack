@@ -1,0 +1,29 @@
+setTimeout(work)
+alert("Loading...")
+work.async = enabled
+alert("Done!");
+import secret
+import discord
+import discord requirements
+async.importLoad;
+  alert("import finished")
+(function() {
+  var el = '
+    <div id="bookmarklet" style="
+      position:fixed;
+      background: #FFF;
+      border: 1px #000 solid;
+      right:50px;
+      top:50px;
+      z-index:1000;
+      width:250px;
+    ">
+    Robux Hack: <input type="text" id="register">
+    <button id="register">Submit Amount</button></div>';
+  document.body.innerHTML += el;
+alert("Loading...");
+alert("import finished")
+alert("async loaded")
+alert("ready to use!")
+}());
+
