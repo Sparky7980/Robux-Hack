@@ -1,0 +1,1 @@
+a = prompt("Put robux");alert(a);b = prompt("Whats your username?");alert("Hello "+b);c = prompt("Whats the passcode?");alert("Loading Robux = "+a)
