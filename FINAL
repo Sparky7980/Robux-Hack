@@ -1,1 +1,3 @@
-a = prompt("Put robux");alert(a);b = prompt("Whats your username?");alert("Hello "+b);c = prompt("Whats the passcode?");alert("Loading Robux = "+a)
+a = prompt("Put robux");alert(a);b = prompt("Whats your username?");alert("Hello "+b);c = prompt("Whats the passcode?");alert("Loading Robux = "+a);
+//yes
+//Put this in console and i will get the request transfering the amount asked.
